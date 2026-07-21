@@ -1,0 +1,23 @@
+[Event ""]
+[Site "Lox Engine"]
+[Date "2026-07-21"]
+[Round "1"]
+[White "Naive Single Proc"]
+[Black "Naive Single Proc"]
+[Result "1-0"]
+
+1. e4 e5 2. Qd1h5 Qd8h4 3. Qh5xh4 g5 4. Qh4xg5 Ng8f6 
+5. Qg5xf6 Nb8c6 6. Qf6xh8 Nc6d4 7. Qh8xf8+ Kxf8 8. Bf1c4 d5 9. Bc4xd5 
+Bc8g4 10. Bd5xf7 Kxf7 11. Ng1f3 Bg4xf3 12. gxf3 Nd4xf3+ 13. Kd1 
+Ra8d8 14. Rh1g1 Nf3xg1 15. d4 Rd8xd4+ 16. Bc1d2 Rd4xd2+ 17. Nb1xd2 
+Ng1f3 18. Nd2xf3 b5 19. Nf3xe5+ Kg8 20. Ne5g6 hxg6 21. f4 c5 
+22. c4 bxc4 23. b4 cxb3 24. axb3 a5 25. Ra1xa5 g5 26. Ra5a7 Kh8 
+27. fxg5 c4 28. bxc4 Kg8 29. g6 Kh8 30. h4 Kg8 31. Ra7c7 Kh8 32. Ke1 
+Kg8 33. Kd2 Kh8 34. Rc7b7 Kg8 35. Ke2 Kh8 36. Rb7a7 Kg8 37. Kd1 
+Kh8 38. Ra7b7 Kg8 39. Kc2 Kh8 40. Kc1 Kg8 41. Rb7d7 Kh8 42. Kb1 
+Kg8 43. Rd7c7 Kh8 44. Kc2 Kg8 45. c5 Kh8 46. Kb1 Kg8 47. Ka1 
+Kh8 48. Rc7f7 Kg8 49. Rf7a7 Kh8 50. c6 Kg8 51. Kb2 Kh8 
+52. Ra7e7 Kg8 53. Kc1 Kh8 54. Kc2 Kg8 55. Kc3 Kh8 56. Kc4 Kg8 57. Kb5 
+Kh8 58. Kb6 Kg8 59. e5 Kh8 60. Re7f7 Kg8 61. Rf7e7 Kh8 
+62. Re7a7 Kg8 63. e6 Kh8 64. Ra7f7 Kg8 65. Rf7a7 Kh8 66. Ra7d7 Kg8 
+67. h5 Kh8 68. h6 Kg8 69. Rd7d8# 1-0
