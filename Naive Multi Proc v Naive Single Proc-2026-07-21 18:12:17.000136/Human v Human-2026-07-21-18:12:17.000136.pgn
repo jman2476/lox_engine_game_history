@@ -1,0 +1,19 @@
+[Event ""]
+[Site "Lox Engine"]
+[Date "2026-07-21"]
+[Round "1"]
+[White "Human"]
+[Black "Human"]
+[Result "-"]
+
+1. e4 e5 2. Qd1h5 Qd8h4 3. Qh5xh4 g5 4. Qh4xg5 Ng8f6 
+5. Qg5xf6 Nb8c6 6. Qf6xf7+ Kxf7 7. Bf1c4+ d5 8. Bc4xd5+ Bc8e6 9. Bd5xe6+ 
+Kxe6 10. d4 Kf7 11. Bc1g5 Kg8 12. Bg5f6 Nc6xd4 13. Bf6xh8 Kxh8 
+14. b4 Bf8xb4+ 15. Nb1c3 Bb4xc3+ 16. Kf1 Ra8f8 17. f4 Rf8xf4+ 
+18. Ng1f3 Rf4xf3+ 19. gxf3 Nd4xf3 20. Rh1g1 Nf3xg1 21. Kxg1 Bc3xa1 
+22. c4 Ba1d4+ 23. Kh1 c5 24. a4 b5 25. axb5 Bd4g1 26. Kxg1 a5 
+27. bxa6 h5 28. h4 Kh7 29. Kf2 Kg7 30. Ke1 Kf8 31. Kf1 Kg8 32. Kg1 
+Kg7 33. Kh2 Kf8 34. Kh1 Kg7 35. Kg1 Kh7 36. a7 Kh8 37. a8=Q+ Kh7 
+38. Qa8f8 Kg6 39. Qf8e7 Kh6 40. Qe7g7+ Kxg7 41. Kf2 Kf8 42. Ke1 Kg8 
+43. Kf1 Kh7 44. Ke1 Kh8 45. Kf2 Kh7 46. Kf1 Kg8 47. Kf2 Kg7 48. Ke2 
+Kf7 49. Kf1 Kg8 
