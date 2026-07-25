@@ -1,0 +1,16 @@
+[Event ""]
+[Site "Lox Engine"]
+[Date "2026-07-23"]
+[Round "1"]
+[White "Naive Single Proc"]
+[Black "Naive Single Proc"]
+[Result "0-1"]
+
+1. e4 e5 2. Qd1h5 Qd8h4 3. Qh5xh4 g5 4. Qh4xg5 Ng8f6 
+5. Qg5xf6 Nb8c6 6. Qf6xh8 Nc6d4 7. Qh8xf8+ Kxf8 8. Bf1c4 d5 9. Bc4xd5 
+Bc8g4 10. Bd5xf7 Kxf7 11. Ng1f3 Bg4xf3 12. gxf3 Nd4xf3+ 13. Kd1 
+Ra8d8 14. Rh1g1 Nf3xg1 15. d4 Rd8xd4+ 16. Bc1d2 Rd4xd2+ 17. Nb1xd2 
+Ng1f3 18. Nd2xf3 c5 19. Nf3xe5+ Kg8 20. Ne5g6 hxg6 21. b4 cxb4 
+22. c4 bxc3 23. Ra1c1 g5 24. Rc1xc3 b5 25. Rc3c7 Kh8 26. Rc7xa7 b4 
+27. f4 gxf4 28. a4 b3 29. Ke1 f3 30. h4 b2 31. a5 b1=Q+ 32. Kf2 
+Qb1xe4 33. Kg1 Qe4e2 34. Kh1 Qe2g2# 0-1
