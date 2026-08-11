@@ -1,0 +1,25 @@
+[Event "Depth: 5, Breadth: 2, MP: True Engine, False Search"]
+[Site "Lox Engine"]
+[Date "2026-08-11"]
+[Round "1"]
+[White "Naive Single Proc"]
+[Black "Naive Single Proc"]
+[Result "1/2-1/2"]
+
+1. d4 e5 2. dxe5 Qd8h4 3. Qd1xd7+ Bc8xd7 4. Bc1g5 Qh4xg5 
+5. f4 Qg5xf4 6. Ng1f3 Qf4d2+ 7. Kxd2 Bd7b5 8. Kc1 Bf8b4 9. e6 fxe6 
+10. Nf3g5 Kd8 11. Ng5xe6+ Kc8 12. Nb1c3 Bb4xc3 13. bxc3 Bb5d3 14. exd3 
+Ng8f6 15. Ne6xc7 Kxc7 16. Ra1b1 Kd7 17. Rb1xb7+ Kc8 18. Rb7xg7 
+Nb8d7 19. Rg7xd7 Kxd7 20. d4 Ra8b8 21. d5 Ke8 22. Bf1b5+ Rb8xb5 
+23. Kd1 Rb5xd5+ 24. Kc1 Rd5d4 25. cxd4 Rh8g8 26. g4 Nf6xg4 27. Rh1f1 
+Ng4f6 28. Rf1xf6 Kd8 29. Rf6f7 Rg8g2 30. Rf7xh7 Rg2xc2+ 31. Kxc2 
+a5 32. h4 Kc8 33. a4 Kd8 34. Kd2 Ke8 35. Ke1 Kf8 36. d5 Kg8 
+37. Rh7b7 Kh8 38. Rb7c7 Kg8 39. Rc7a7 Kh8 40. Ra7c7 Kg8 41. Rc7b7 Kh8 
+42. Rb7e7 Kg8 43. Kf1 Kh8 44. Re7b7 Kg8 45. Rb7a7 Kh8 46. Ra7c7 Kg8 
+47. Rc7a7 Kh8 48. Ra7c7 Kg8 49. Rc7b7 Kh8 50. Rb7g7 Kxg7 51. Kg1 Kh7 
+52. d6 Kg7 53. h5 Kg8 54. d7 Kh8 55. d8=R+ Kg7 56. Rd8e8 Kh6 
+57. Re8g8 Kxh5 58. Kf1 Kh4 59. Ke1 Kh3 60. Kd2 Kh2 61. Ke3 Kh1 
+62. Kf4 Kh2 63. Ke5 Kh1 64. Kf6 Kh2 65. Ke6 Kh1 66. Kf7 Kh2 67. Kf6 
+Kh1 68. Kf7 Kh2 69. Ke6 Kh1 70. Rg8g5 Kh2 71. Kd7 Kh1 72. Kc6 
+Kh2 73. Kd6 Kh1 74. Ke7 Kh2 75. Kf6 Kh1 76. Kf7 Kh2 77. Ke6 Kh1 
+78. Kf6 Kh2 79. Kf7 Kh1 80. Ke7 Kh2 81. Kd6 Kh1 82. Kc6 Kh2 1/2-1/2
