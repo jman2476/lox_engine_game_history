@@ -1,0 +1,18 @@
+[Event "Depth: 5, Breadth: 5, MP: False Engine, True Search"]
+[Site "Lox Engine"]
+[Date "2026-08-19"]
+[Round "1"]
+[White "Human"]
+[Black "Human"]
+[Result "-"]
+
+1. e4 e5 2. Qd1h5 Qd8f6 3. f4 Qf6xf4 4. Ng1f3 Qf4xe4+ 5. Kd1 
+g5 6. Nf3xg5 Qe4xc2+ 7. Kxc2 Kd8 8. Ng5xf7+ Ke8 9. Nf7xh8+ Kd8 
+10. Qh5xe5 d5 11. Bf1b5 Nb8c6 12. Bb5xc6 bxc6 13. Nh8g6 hxg6 14. d4 
+Bf8b4 15. Nb1c3 Bb4xc3 16. bxc3 Ra8b8 17. Kd2 Bc8g4 18. Ra1b1 
+Rb8xb1 19. Rh1e1 Kc8 20. Qe5g7 Kb8 21. Qg7xg8+ Kb7 22. Qg8d8 Ka6 
+23. Qd8xc7 Rb1xc1 24. Kxc1 Bg4f5 25. Kd1 Bf5d3 26. Qc7xc6+ Ka5 27. a3 
+a6 28. g4 g5 29. h3 Bd3c2+ 30. Kd2 Bc2d1 31. Re1e7 Bd1xg4 
+32. Re7b7 Bg4f3 33. Kc2 Bf3e4+ 34. Kb2 Be4d3 35. Rb7b8 Bd3e4 36. Ka1 
+Be4c2 37. Rb8b7 Bc2d3 38. Rb7b8 Bd3c2 39. Rb8b7 Bc2d3 40. Rb7b8 
+Bd3c2 
