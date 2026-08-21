@@ -1,0 +1,18 @@
+[Event "Depth: 2, Breadth: 3, MP: False Engine, True Search"]
+[Site "Lox Engine"]
+[Date "2026-07-30"]
+[Round "1"]
+[White "Naive Single Proc"]
+[Black "Naive Single Proc"]
+[Result "1/2-1/2"]
+
+1. e4 d5 2. exd5 Qd8xd5 3. Qd1g4 Bc8xg4 4. d4 Qd5xd4 
+5. Ng1f3 Bg4xf3 6. gxf3 Qd4d3 7. Bf1xd3 e5 8. Bc1g5 Bf8b4+ 9. Nb1c3 
+Bb4xc3+ 10. bxc3 f6 11. Bg5xf6 Ng8xf6 12. Bd3f5 Kf8 13. Bf5e6 Nf6e4 
+14. fxe4 Nb8c6 15. Ra1d1 Ra8d8 16. Rd1d7 Rd8xd7 17. Be6xd7 Nc6d4 
+18. Bd7e6 Nd4xe6 19. Rh1g1 Ne6f4 20. Rg1xg7 Kxg7 21. c4 Rh8d8 22. a4 
+Rd8d3 23. cxd3 Nf4xd3+ 24. Ke2 Nd3xf2 25. Kxf2 b5 26. axb5 h5 
+27. h4 c5 28. bxc6 a5 29. c7 a4 30. c8=Q Kh7 31. Qc8e8 a3 
+32. Qe8f8 a2 33. Qf8f6 a1=Q 34. Kg3 Qa1f1 35. Kh2 Qf1xf6 36. Kh3 
+Qf6xh4+ 37. Kxh4 Kh6 38. c5 Kg6 39. c6 Kh6 40. c7 Kg7 41. c8=Q Kh7 
+42. Kxh5 Kg7 43. Qc8e8 Kf6 44. Qe8xe5+ Kxe5 45. Kh6 Kxe4 1/2-1/2
