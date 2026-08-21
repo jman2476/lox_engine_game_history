@@ -1,0 +1,13 @@
+[Event "Depth: 2, Breadth: 2, MP: False Engine, True Search"]
+[Site "Lox Engine"]
+[Date "2026-08-19"]
+[Round "1"]
+[White "Naive Multi Proc Search"]
+[Black "Fast Managed Multi Proc"]
+[Result "0-1"]
+
+1. d4 d5 2. Bc1g5 Bc8g4 3. Ng1f3 Bg4xf3 4. exf3 Qd8d6 
+5. Bf1b5+ c6 6. Bb5xc6+ Nb8xc6 7. Qd1e2 Nc6xd4 8. Bg5xe7 Nd4xe2 
+9. Be7xd6 Bf8xd6 10. Kxe2 Bd6f4 11. Kf1 Bf4xh2 12. Rh1xh2 Ra8c8 
+13. Rh2xh7 Rh8xh7 14. Nb1c3 Rc8c4 15. Nc3xd5 Rc4xc2 16. Ra1e1+ Ng8e7 
+17. Re1xe7+ Kf8 18. Re7xf7+ Kxf7 19. Nd5c7 Rh7h1# 0-1
