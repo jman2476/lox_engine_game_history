@@ -1,0 +1,14 @@
+[Event "Depth: 3, Breadth: 2, Fast Engine"]
+[Site "Lox Engine"]
+[Date "2026-08-24"]
+[Round "1"]
+[White "Fast Managed Multi Proc"]
+[Black "Fast Managed Multi Proc"]
+[Result "0-1"]
+
+1. e4 d5 2. exd5 Qd8xd5 3. Qd1h5 Qd5xh5 4. g4 Bc8xg4 5. f3 
+Bg4xf3 6. Ng1xf3 Qh5xf3 7. Bf1e2 Qf3xh1+ 8. Be2f1 Qh1xf1+ 9. Kxf1 b5 
+10. Nb1c3 e5 11. Nc3xb5 Bf8c5 12. d4 Bc5xd4 13. Nb5xd4 exd4 14. Bc1f4 
+d3 15. Bf4xc7 Kf8 16. cxd3 f5 17. Bc7xb8 g5 18. Bb8xa7 Ra8xa7 
+19. Ra1c1 Ra7e7 20. Kg2 Re7e3 21. Kh1 Re3xd3 22. Rc1c7 Ng8e7 23. b4 
+Rd3d2 24. Rc7xe7 Kxe7 25. a4 Rh8c8 26. a5 Rc8c1# 0-1
