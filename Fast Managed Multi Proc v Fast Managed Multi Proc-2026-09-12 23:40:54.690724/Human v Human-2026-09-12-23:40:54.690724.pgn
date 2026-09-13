@@ -1,0 +1,20 @@
+[Event "Fast Engine: Depth: 2, Breadth: 2, Threads: W->8 B->4, Opponent square wieghting: W->1, B->0.1"]
+[Site "Lox Engine"]
+[Date "2026-09-12"]
+[Round "1"]
+[White "Human"]
+[Black "Human"]
+[Result "-"]
+
+1. d4 e5 2. dxe5 Qd8h4 3. Qd1d6 Bf8xd6 4. exd6 cxd6 
+5. Bc1g5 Qh4xg5 6. f4 Qg5xg2 7. Bf1xg2 Nb8c6 8. Bg2d5 Nc6d4 
+9. Bd5xb7 Bc8xb7 10. Nb1c3 Bb7xh1 11. Nc3d5 Bh1xd5 12. c4 Bd5xc4 
+13. O-O-O Bc4xa2 14. Rd1xd4 Ra8c8+ 15. Kd1 Ba2b3+ 16. Kd2 Rc8c1 
+17. Kxc1 d5 18. Rd4xd5 Bb3xd5 19. Ng1f3 Bd5xf3 20. exf3 d5 21. b4 g5 
+22. fxg5 f5 23. gxf6 Ng8xf6 24. h4 Rh8g8 25. f4 Rg8g1+ 26. Kc2 Nf6e4 
+27. Kb3 Rg1a1 28. f5 a5 29. h5 Ne4d2+ 30. Kc3 Ra1a2 31. Kd4 Ra2c2 
+32. Ke5 Rc2c6 33. bxa5 Rc6d6 34. Kxd6 d4 35. f6 Nd2e4+ 36. Ke5 
+Ne4xf6 37. Kxf6 Kf8 38. Ke5 d3 39. a6 d2 40. a7 d1=Q 41. a8=Q+ 
+Qd1d8 42. Qa8xd8+ Kf7 43. Kd6 Kg7 44. Qd8e8 Kh6 45. Qe8f7 Kg5 
+46. Kc6 Kh4 47. Qf7f5 h6 48. Kd6 Kg3 49. Kc6 Kh4 50. Kd6 Kg3 
+51. Kc6 Kh4 
